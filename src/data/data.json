@@ -6,18 +6,26 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Ever wondered what to do if you need to get rid of leftover materials that might harm the environment? Others might need what you do not find useful anymore - no need to say that the Earth will thank you! Join us on our journey to make the world great again! Combat Climate Change. Get reponsible about your waste disposal. Take part in our project of trading materials by contacting companies and manufacturers to help you on your way.",
         "Why": [
             "Responsible Waste Disposal",
             "Recycle Old Products",
             "Earn Badges and Discount Codes",
-            "Track Your Waste"
+            "Track Your Waste",
+            "Giveaways",
+            "Earn gift cards",
+            "Exciting trades",
+            "Easiest way of reusing materials"
         ],
         "Why2": [
             "Buy from Sustainable Businesses ",
             "Support Circular Economy Efforts",
             "Partiipate in  Circular Economy",
-            "Statistics on your carbon footprint"
+            "Statistics on your carbon footprint",
+            "Eco-friendly",
+            "Recycled materials",
+            "Trustworthy partners",
+            "Useful materials"
         ]
     },
     "Services": [{
@@ -105,9 +113,9 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "London, UK ",
+        "phone": "+44 712 356 789",
+        "email": "codebrew@yahoo.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
