@@ -8,37 +8,37 @@
     "About": {
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Responsible Waste Disposal",
+            "Recycle Old Products",
+            "Earn Badges and Discount Codes",
+            "Track Your Waste"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Buy from Sustainable Businesses ",
+            "Support Circular Economy Efforts",
+            "Partiipate in  Circular Economy",
+            "Statistics on your carbon footprint"
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Plastic",
+            "text": "Got kilos of plastic waste at home? 50 plastic bags, bottles and containers? Connect with businesses that recycle your plastic to make shoes, trendy leggings, sweaters, comforters, backpacks and so much more. Ensure that your plastic never reaches the oceans again!  "
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-archive",
+            "name": "Cardboard",
+            "text": "Got that mile high pile of Amazon Boxes at home?. Connect with businesses that upcycle your cardboard waste to new, unique products! Track whether your waste become a new chair, photo frame and so much more.  "
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
+            "name": "Glass",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Food Waste",
+            "text": "Connect with businesses that that turn your food waste into sustainable bio-fuel, bio-based plastic and so on. Receive statistics on your own carbon footprint, track the end result of your waste and ensure that it never reaches landfills again!"
         },
         {
             "icon": "fa fa-plane",
@@ -113,24 +113,24 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-heartbeat",
+            "title": "Repurpose",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-recycle",
+            "title": "Recycle",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-trash-o",
+            "title": "Reuse",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-globe",
+            "title": "Reform",
+            "text": "Be the change that leads the world into sustainable consumption and disposal."
         }
     ]
 }
