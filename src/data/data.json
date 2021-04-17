@@ -6,39 +6,47 @@
 
     },
     "About": {
-        "paragraph": "Ever wondered what to do if you need to get rid of leftover materials that might harm the environment? Other might need what you do not find useful anymore - no need to say that the Earth will thank you! Join us on our journey to make the world great again, by taking part in our project of trading materials by contacting companies and manufacturers to help you on your way.",
+        "paragraph": "Ever wondered what to do if you need to get rid of leftover materials that might harm the environment? Others might need what you do not find useful anymore - no need to say that the Earth will thank you! Join us on our journey to make the world great again! Combat Climate Change. Get reponsible about your waste disposal. Take part in our project of trading materials by contacting companies and manufacturers to help you on your way.",
         "Why": [
-            "Eco-friendly",
-            "Recycled materials",
-            "Trustworthy partners",
-            "Useful materials"
-        ],
-        "Why2": [
+            "Responsible Waste Disposal",
+            "Recycle Old Products",
+            "Earn Badges and Discount Codes",
+            "Track Your Waste",
             "Giveaways",
             "Earn gift cards",
             "Exciting trades",
             "Easiest way of reusing materials"
+        ],
+        "Why2": [
+            "Buy from Sustainable Businesses ",
+            "Support Circular Economy Efforts",
+            "Partiipate in  Circular Economy",
+            "Statistics on your carbon footprint",
+            "Eco-friendly",
+            "Recycled materials",
+            "Trustworthy partners",
+            "Useful materials"
         ]
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Plastic",
+            "text": "Got kilos of plastic waste at home? 50 plastic bags, bottles and containers? Connect with businesses that recycle your plastic to make shoes, trendy leggings, sweaters, comforters, backpacks and so much more. Ensure that your plastic never reaches the oceans again!  "
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-archive",
+            "name": "Cardboard",
+            "text": "Got that mile high pile of Amazon Boxes at home?. Connect with businesses that upcycle your cardboard waste to new, unique products! Track whether your waste become a new chair, photo frame and so much more.  "
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
+            "name": "Glass",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Food Waste",
+            "text": "Connect with businesses that that turn your food waste into sustainable bio-fuel, bio-based plastic and so on. Receive statistics on your own carbon footprint, track the end result of your waste and ensure that it never reaches landfills again!"
         },
         {
             "icon": "fa fa-plane",
@@ -55,18 +63,18 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Traded 10 kgs of plastic with the Parley x Adidas initiative.\"",
+            "name": "10 kgs of Plastic"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Earned the Plastic Upcycler Badge - Silver for being proactive about your plastic disposal. Earned an Adidas Discount Code!\"",
+            "name": "Plastic Upcycler Badge"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Your plastic was used to make Green Adidas Girl Falcon Shoes. Congratulations on contributing to curbing Plastic Crisis!\"",
+            "name": "Blue Adidas Girl Falcon Shoes"
         },
         {
             "img": "img/testimonials/04.jpg",
@@ -113,24 +121,24 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-heartbeat",
+            "title": "Repurpose",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-recycle",
+            "title": "Recycle",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-trash-o",
+            "title": "Reuse",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-globe",
+            "title": "Reform",
+            "text": "Be the change that leads the world into sustainable consumption and disposal."
         }
     ],
     "Bar": {
