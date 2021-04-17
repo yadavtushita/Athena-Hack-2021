@@ -63,18 +63,18 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Traded 10 kgs of plastic with the Parley x Adidas initiative.\"",
+            "name": "10 kgs of Plastic"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Earned the Plastic Upcycler Badge - Silver for being proactive about your plastic disposal. Earned an Adidas Discount Code!\"",
+            "name": "Plastic Upcycler Badge"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Your plastic was used to make Green Adidas Girl Falcon Shoes. Congratulations on contributing to curbing Plastic Crisis!\"",
+            "name": "Blue Adidas Girl Falcon Shoes"
         },
         {
             "img": "img/testimonials/04.jpg",
