@@ -1,3 +1,4 @@
+import CustomizedMenus from './navbar';
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -58,6 +59,11 @@ export const Navigation = (props) => {
             <li>
               <a href='#contact' className='page-scroll'>
                 Contact
+              </a>
+            </li>
+            <li>
+              <a href='#contact' className='page-scroll'>
+              <CustomizedMenus/>
               </a>
             </li>
           </ul>
