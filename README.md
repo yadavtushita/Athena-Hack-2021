@@ -1,8 +1,8 @@
 # Team Codebrew: REPURPOSE THE LIFE PURPOSE
 
 ## Team Members
-Bianca Opariuc
-Tushita Yadav
+Bianca Opariuc,
+Tushita Yadav,
 Iris Simionas
 
 ## Description
