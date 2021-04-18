@@ -5,7 +5,7 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Meet the Team</h2>
           <p>
-           We have generated the idea!
+           Codebrew at Athena Hack 2021 for Circular Economy
           </p>
         </div>
         <div id='row'>
