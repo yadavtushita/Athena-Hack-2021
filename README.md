@@ -1,9 +1,13 @@
 # Team Codebrew: REPURPOSE THE LIFE PURPOSE
 
+## Team Members
+Bianca Opariuc
+Tushita Yadav
+Iris Simionas
+
 ## Description
 Our website is called ‘Repurpose the Life Purpose’.It is an aggregator for businesses contributing to the Circular Economy initiative. We will connect consumers like you and me with our trusted businesses and startups that are actively recycling waste and old products. Never again will the process of recycling and reusing be more easier. You can search for waste that you want to dispose of responsibly, track the outcome of recycling that waste and will also be able to buy products from businesses that are sustainably upcycling them. Our system of trading waste for incentives such as badges, discount codes and sponsorships will keep consumers engaged about responsible waste disposal, thus helping with long term sustainability.
 
-All 'visual' data can be easily modified by changing the data.json file.
 
 ## Setup            
 ### 1. Preps
