@@ -10,22 +10,20 @@
         "Why": [
             "Responsible Waste Disposal",
             "Recycle Old Products",
-            "Earn Badges and Discount Codes",
             "Track Your Waste",
+            "Earn Badges and Discount Codes",            
             "Giveaways",
             "Earn gift cards",
-            "Exciting trades",
-            "Easiest way of reusing materials"
+            "Exciting trades"
         ],
         "Why2": [
-            "Buy from Sustainable Businesses ",
-            "Support Circular Economy Efforts",
-            "Partiipate in  Circular Economy",
-            "Statistics on your carbon footprint",
             "Eco-friendly",
             "Recycled materials",
             "Trustworthy partners",
-            "Useful materials"
+            "Easiest way of reusing materials",
+            "Support Circular Economy Efforts",
+            "Participate in  Circular Economy",
+            "Statistics on your carbon footprint"            
         ]
     },
     "Services": [{
@@ -36,27 +34,27 @@
         {
             "icon": "fa fa-archive",
             "name": "Cardboard",
-            "text": "Got that mile high pile of Amazon Boxes at home?. Connect with businesses that upcycle your cardboard waste to new, unique products! Track whether your waste become a new chair, photo frame and so much more.  "
+            "text": "Got that mile high pile of Amazon Boxes at home? Worried about those new shopping boxes on the way? Connect with businesses that upcycle your cardboard waste to new, unique products! Track whether your waste become a new chair, photo frame and so much more.  "
         },
         {
             "icon": "fa fa-cloud-download",
             "name": "Glass",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Got 20+ pasta sauce glass bottles? Wine and Beer bottles from your last lockdown weekend? Tired of just dumping it in the trash? Connect with our truted partners who will upcycle your glass to new products such as vases, decorative items and so much more!"
         },
         {
             "icon": "fa fa-language",
             "name": "Food Waste",
-            "text": "Connect with businesses that that turn your food waste into sustainable bio-fuel, bio-based plastic and so on. Receive statistics on your own carbon footprint, track the end result of your waste and ensure that it never reaches landfills again!"
+            "text": "Connect with businesses that that turn your food waste into fibres, textiles, sustainable bio-fuel, bio-based plastic and so on. Receive statistics on your own carbon footprint, track the end result of your waste and ensure that it never reaches landfills again!"
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Books",
+            "text": "If you are bookworm we know your biggest challenges. Afraid to donate your books to untrustworthy names? Worried about space for your new books? Connect with our trusted charities and partners who will ensre your books are place in the hands of bookworms like you."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Software & Electronics",
+            "text": "Having a tough time disposing your Nokia from 15 years ago? Don't know what to do with that 20 year old antivirus? Connect with our trusted businesses and partners and find ways to dispose your electronics in the most eaadiest, environmental friendly ways!"
         }
 
 
@@ -118,17 +116,17 @@
     "Features": [{
             "icon": "fa fa-heartbeat",
             "title": "Repurpose",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Give your old products new life by connecting with our partners who will give them a new purpose."
         },
         {
             "icon": "fa fa-recycle",
             "title": "Recycle",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Be responsible about your carbon footprint. Partipate in our trade programs and track how your waste is recycled."
         },
         {
             "icon": "fa fa-trash-o",
             "title": "Reuse",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "text": "Find your unique in reusable products with a new found purpose. Buy from our trusted partners and participate in sustainable shopping."
         },
         {
             "icon": "fa fa-globe",

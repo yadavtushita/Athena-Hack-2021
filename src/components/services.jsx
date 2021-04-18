@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+           Connect with our trusted partners and find ways to responsibly manage specific waste. We provide easy contact, pick up and tracking of your waste.
           </p>
         </div>
         <div className='row'>
