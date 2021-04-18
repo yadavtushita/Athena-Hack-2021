@@ -63,33 +63,33 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Traded 10 kgs of plastic with the Parley x Adidas initiative.\"",
+            "text": "Traded 10 kgs of plastic with the Parley x Adidas initiative.",
             "name": "10 kgs of Plastic"
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Earned the Plastic Upcycler Badge - Silver for being proactive about your plastic disposal. Earned an Adidas Discount Code!\"",
-            "name": "Plastic Upcycler Badge"
+            "img": "img/testimonials/03.jpg",
+            "text": "Earned the Plastic Upcycler Badge - Silver for being proactive about your plastic disposal. Earned an Adidas Discount Code!",
+            "name": "Adidas Discount Code"
         },
         {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Your plastic was used to make Green Adidas Girl Falcon Shoes. Congratulations on contributing to curbing Plastic Crisis!\"",
+            "img": "img/testimonials/02.jpg",
+            "text": "Your plastic was used to make Green Adidas Girl Falcon Shoes. Congratulations on contributing to curbing Plastic Crisis!",
             "name": "Blue Adidas Girl Falcon Shoes"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "Traded 5kgs of Food Waste with Materials Science Company Circular Systems.",
+            "name": "5 kgs of Food Waste"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "Earned the Conscious Waste Disposal Badge for segregating your food waste from normal waste. Earned an H&M Discount Code!",
+            "name": "H&M Discount Code"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "Your food waste was converted into textiles and fibres that is being supplied to H&M and Organic Basics!",
+            "name": "Fibre for H&M and Organic Basics"
         }
     ],
     "Team": [{
