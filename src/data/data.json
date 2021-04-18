@@ -27,7 +27,7 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fa fa-recycle",
             "name": "Plastic",
             "text": "Got kilos of plastic waste at home? 50 plastic bags, bottles and containers? Connect with businesses that recycle your plastic to make shoes, trendy leggings, sweaters, comforters, backpacks and so much more. Ensure that your plastic never reaches the oceans again!  "
         },
@@ -37,22 +37,22 @@
             "text": "Got that mile high pile of Amazon Boxes at home? Worried about those new shopping boxes on the way? Connect with businesses that upcycle your cardboard waste to new, unique products! Track whether your waste become a new chair, photo frame and so much more.  "
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-glass",
             "name": "Glass",
             "text": "Got 20+ pasta sauce glass bottles? Wine and Beer bottles from your last lockdown weekend? Tired of just dumping it in the trash? Connect with our truted partners who will upcycle your glass to new products such as vases, decorative items and so much more!"
         },
         {
-            "icon": "fa fa-language",
+            "icon": "fa fa-cutlery",
             "name": "Food Waste",
             "text": "Connect with businesses that that turn your food waste into fibres, textiles, sustainable bio-fuel, bio-based plastic and so on. Receive statistics on your own carbon footprint, track the end result of your waste and ensure that it never reaches landfills again!"
         },
         {
-            "icon": "fa fa-plane",
+            "icon": "fa fa-book",
             "name": "Books",
             "text": "If you are bookworm we know your biggest challenges. Afraid to donate your books to untrustworthy names? Worried about space for your new books? Connect with our trusted charities and partners who will ensre your books are place in the hands of bookworms like you."
         },
         {
-            "icon": "fa fa-pie-chart",
+            "icon": "fa fa-cloud-download",
             "name": "Software & Electronics",
             "text": "Having a tough time disposing your Nokia from 15 years ago? Don't know what to do with that 20 year old antivirus? Connect with our trusted businesses and partners and find ways to dispose your electronics in the most eaadiest, environmental friendly ways!"
         }
